@@ -12,44 +12,7 @@
 
 </div>
 
----
 
-<!-- ABOUT ME - TERMINAL STYLE -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```
-┌─────────────────────────────────────────────┐
-│         VISHWANATHAN.M // PROFILE.SH         │
-├─────────────────────────────────────────────┤
-│                                             │
-│  $ whoami                                   │
-│  > CS + Data Science Graduate               │
-│    @ Tagore College, Chennai 📍             │
-│                                             │
-│  $ cat skills.txt                           │
-│  > Python | Java | C++ | HTML               │
-│  > Data Analysis | Cloud | Networking       │
-│  > Software Testing | MS Office             │
-│                                             │
-│  $ cat learning.txt                         │
-│  > SQL & NoSQL Databases                    │
-│  > AWS Cloud Fundamentals                   │
-│  > Machine Learning & AI                    │
-│  > Cybersecurity Basics                     │
-│                                             │
-│  $ cat hobbies.txt                          │
-│  > 📚 Books | 📷 Photography               │
-│  > 🏏 Cricket | 🏍️ Bike Riding             │
-│                                             │
-│  $ echo $MOTTO                              │
-│  > "Learn → Build → Grow. Repeat." 🚀      │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-<br clear="right"/>
-
----
 
 <!-- SOCIAL BADGES -->
 <div align="center">
