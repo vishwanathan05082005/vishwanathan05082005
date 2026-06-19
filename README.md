@@ -29,16 +29,16 @@
 
 <!-- TECH STACK - STYLED AS SYSTEM MODULES -->
 
-## `$ ./load_tech_stack.sh`
+**🏣 Tech_stack **
 
-> **[ LANGUAGES ]**
+ **[ LANGUAGES ]**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117&color=00FF41)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820&labelColor=0D1117&color=F89820)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00BFFF&labelColor=0D1117&color=00BFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0D1117&color=E34F26)
 
-> **[ CORE SKILLS ]**
+ **[ CORE SKILLS ]**
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0D1117?style=flat-square&logo=databricks&logoColor=FF6F00&color=FF6F00)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4&color=4285F4)
@@ -46,7 +46,7 @@
 ![Networking](https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7&color=1BA0D7)
 ![DSA](https://img.shields.io/badge/DSA-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116&color=FFA116)
 
-> **[ TOOLS ]**
+ **[ TOOLS ]**
 
 ![MS Office](https://img.shields.io/badge/MS_Office-0D1117?style=flat-square&logo=microsoftoffice&logoColor=D83B01&color=D83B01)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=217346&color=217346)
@@ -57,7 +57,7 @@
 
 <!-- GITHUB STATS -->
 
-## `$ ./fetch_github_metrics.sh`
+**fetch_github_metrics**
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## `$ ./streak_monitor.sh --live`
+**streak_monitor**
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 
 ---
 
-## `$ ./activity_graph.sh --render`
+**activity_graph**
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ---
 
-## `$ ./load_trophies.sh`
+**load_trophies**
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <!-- SKILLS BREAKDOWN - TERMINAL DETAILS PANELS -->
 
-## `$ cat skills_breakdown.log`
+**skills_breakdown**
 
 <details>
 <summary><code>▶ [MODULE 01] Programming & Technical Skills — EXPAND</code></summary>
@@ -179,7 +179,7 @@
 
 <!-- EDUCATION - STYLED AS SYSTEM LOGS -->
 
-## `$ cat /etc/education.conf`
+**education**
 
 <div align="center">
 
@@ -194,7 +194,7 @@
 
 <!-- ACHIEVEMENTS -->
 
-## `$ ls -la /achievements/`
+**achievements**
 
 <div align="center">
 
